@@ -1,0 +1,27 @@
+server:
+  port: 5000
+
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+#      username: username
+#      password: password
+#      port: 27017
+#      host: localhost
+      database: TAKA
+      uri: mongodb+srv://admin:admin@se214.h3kjms8.mongodb.net/
+
+application:
+  security:
+    jwt:
+      secret-key: 404E635266556A586E3272357538782F413F4428472B4B6250645367566B5970
+      expiration: 300000 # 5 min
+      refresh-token:
+        expiration: 604800000 # 7 days
+
+springdoc:
+  api-docs:
+    path: /swagger/api-docs
+  swagger-ui:
+    path: /swagger/index.html
