@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\OneDrive\\Desktop\\ApiOrder\\OrderApi\\OrderApi\\OrderApi.csproj": {}
+    "D:\\source\\se214\\source\\Advanced-SE\\OrderApi\\OrderApi\\OrderApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\OneDrive\\Desktop\\ApiOrder\\OrderApi\\OrderApi\\OrderApi.csproj": {
+    "D:\\source\\se214\\source\\Advanced-SE\\OrderApi\\OrderApi\\OrderApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\OneDrive\\Desktop\\ApiOrder\\OrderApi\\OrderApi\\OrderApi.csproj",
+        "projectUniqueName": "D:\\source\\se214\\source\\Advanced-SE\\OrderApi\\OrderApi\\OrderApi.csproj",
         "projectName": "OrderApi",
-        "projectPath": "C:\\Users\\acer\\OneDrive\\Desktop\\ApiOrder\\OrderApi\\OrderApi\\OrderApi.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\OneDrive\\Desktop\\ApiOrder\\OrderApi\\OrderApi\\obj\\",
+        "projectPath": "D:\\source\\se214\\source\\Advanced-SE\\OrderApi\\OrderApi\\OrderApi.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\source\\se214\\source\\Advanced-SE\\OrderApi\\OrderApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

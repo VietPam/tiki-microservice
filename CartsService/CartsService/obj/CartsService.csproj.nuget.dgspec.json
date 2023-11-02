@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Se214-PMCS\\CartsService\\CartsService\\CartsService.csproj": {}
+    "D:\\source\\se214\\source\\Advanced-SE\\CartsService\\CartsService\\CartsService.csproj": {}
   },
   "projects": {
-    "D:\\Se214-PMCS\\CartsService\\CartsService\\CartsService.csproj": {
+    "D:\\source\\se214\\source\\Advanced-SE\\CartsService\\CartsService\\CartsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Se214-PMCS\\CartsService\\CartsService\\CartsService.csproj",
+        "projectUniqueName": "D:\\source\\se214\\source\\Advanced-SE\\CartsService\\CartsService\\CartsService.csproj",
         "projectName": "CartsService",
-        "projectPath": "D:\\Se214-PMCS\\CartsService\\CartsService\\CartsService.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Se214-PMCS\\CartsService\\CartsService\\obj\\",
+        "projectPath": "D:\\source\\se214\\source\\Advanced-SE\\CartsService\\CartsService\\CartsService.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\source\\se214\\source\\Advanced-SE\\CartsService\\CartsService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
